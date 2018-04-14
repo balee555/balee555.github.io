@@ -1,2 +1,1 @@
-# balee555.github.io
-Personal Website
+PERSONAL WEBSITE
